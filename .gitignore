@@ -4,4 +4,4 @@ node_modules/
 # Ignore environment variable files
 .env
 
-**/.DS_Store
+.DS_Store
